@@ -1,0 +1,5 @@
+cd E:\news\pdf_extract_project
+
+.\run_extract.ps1 `
+  -PdfPath "E:\news\newschina218 no.pdf" `
+  -OutputName "newschina218 no_1"
